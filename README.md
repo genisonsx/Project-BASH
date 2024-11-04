@@ -15,6 +15,7 @@
 - Interface simples e leve
 - Automatização do processo de envio
 - Integração direta com o bot do Telegram
+- Entre outras...
 
 ## Instalação
 1. Clone o repositório:
