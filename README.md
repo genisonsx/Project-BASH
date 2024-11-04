@@ -28,4 +28,4 @@ Para utilizar este projeto, você precisará:
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/project-bash.git
+   git clone https://github.com/genisonsx/project-bash.git
