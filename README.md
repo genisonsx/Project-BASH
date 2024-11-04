@@ -1,6 +1,6 @@
-# Project-BASH
+# Project BASH
 
-**Project BASH** é um projeto simples e eficiente para enviar e receber filmes diretamente pelo Telegram.
+**Project BASH** é um projeto simples e eficiente para envio e recebimento de filmes diretamente pelo Telegram.
 
 ## Índice
 - [Sobre o Projeto](#sobre-o-projeto)
@@ -12,20 +12,18 @@
 - [Licença](#licença)
 
 ## Sobre o Projeto
-**Project BASH** facilita o envio e recebimento de filmes via Telegram. Ele utiliza o Bash para automatizar e simplificar o compartilhamento de filmes, tornando o processo mais rápido e acessível.
+**Project BASH** facilita o envio e recebimento de filmes via Telegram. Ele automatiza e simplifica o compartilhamento de filmes, tornando o processo mais rápido e acessível.
 
 ## Funcionalidades
 - Envio rápido de filmes via Telegram
 - Interface simples e leve
-- Automatização através de scripts Bash
+- Automatização do processo de envio
 - Integração direta com o bot do Telegram
 
 ## Pré-requisitos
 Para utilizar este projeto, você precisará:
-- **Bash**: Ambiente de terminal Linux ou WSL no Windows
 - **Telegram Bot**: Crie um bot para obter o token de API
-- **Curl**: Para enviar requisições via Bash
-- **ffmpeg** (opcional): Caso seja necessário comprimir ou converter os filmes antes de enviar
+- **Curl**: Para enviar requisições
 
 ## Instalação
 1. Clone o repositório:
