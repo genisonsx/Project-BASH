@@ -1,3 +1,3 @@
 # Project BASH
 
-**Project BASH** é um projeto simples e eficiente para envio e recebimento de filmes diretamente pelo Telegram.
+A simple and efficient project for sending and receiving films directly via Telegram.
