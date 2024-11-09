@@ -1,5 +1,6 @@
 # Project BASH
 
-A simple and efficient project for sending and receiving films directly via Telegram.
+Um simples bot para o indexar filmes no Telegram. 
 
-- **TELEGRAM CHANNEL:** https://t.me/ProjectBASH
+Entre no nosso canal para mais informações.
+- **TELEGRAM:** https://t.me/ProjectBASH
