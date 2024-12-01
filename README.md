@@ -1,3 +1,3 @@
 # Project BASH
 
-Um simples bot para o indexar filmes no Telegram.
+Projeto open-source encerrado. Obrigado a todos que colaboraram!
